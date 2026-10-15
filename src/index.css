@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --color-ivory: #FFFDF8;
+  --color-blush: #F3DDE2;
+  --color-gold: #C6A56B;
+  --color-charcoal: #242124;
+  --color-beige: #EAE1D7;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #FFFDF8;
+  color: #242124;
+}
+
+.font-serif-luxury {
+  font-family: "Playfair Display", Georgia, serif;
+}
+
+.font-sans-clean {
+  font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}

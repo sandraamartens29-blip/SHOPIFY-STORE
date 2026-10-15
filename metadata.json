@@ -1,0 +1,6 @@
+{
+  "name": "Kathryn Lynne – Luxury E-Commerce Storefront",
+  "description": "High-converting, luxury Shopify storefront for Kathryn Lynne featuring real Shopify Storefront API connectivity, multi-currency checkout, and editorial shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
